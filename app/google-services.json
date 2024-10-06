@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268465346828",
+    "project_id": "news-app-us-d7043",
+    "storage_bucket": "news-app-us-d7043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268465346828:android:aca0e81cae3e4d8ae4d129",
+        "android_client_info": {
+          "package_name": "com.deloitte.newsappus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJcY8W1QHOsXmmecLeAzPrQ_19bOY0zRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
